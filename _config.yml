@@ -4,8 +4,8 @@
 title:               'Brian Cronin.'
 tagline:             'Personal Website for Brian Cronin'
 description:         'Personal Website for Brian Cronin'
-url:                 'http://minicomp.github.io'
-baseurl:             '/'
+url:                 ''
+baseurl:             ''
 
 # About/contact
 author:

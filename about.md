@@ -15,7 +15,3 @@ Feel free to reach out though my social pages, or email me at croninb1@tcd.ie.
 - [LinkedIn](https://www.linkedin.com/in/brian-cronin-ie/)
 - [GitHub](https://github.com/brian97C)
 - [AngelList](https://angel.co/u/brian-cronin-ie)
-
-
-
-## Writing 👇
