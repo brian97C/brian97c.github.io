@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               'Brian Cronin.'
+tagline:             'Personal Website for Brian Cronin'
+description:         'Personal Website for Brian Cronin'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Brian Cronin
+  url:               https://twitter.com/Briancron_in
+  email:             croninb1@tcd.ie
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
