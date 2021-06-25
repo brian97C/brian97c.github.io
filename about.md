@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About
+title:
 ---
 
-My name is Brian Cronin. I am an MSc Pharmacy student in Dublin, Ireland&#128300;.
-I enjoy blending my passions for science, technology and business. Right now I am working
-on a digital health project&#128736; and finishing my Pharmacy degree at <a href="https://pharmacy.tcd.ie/">TCD.</a> <br><br>
-Feel free to reach out though my social pages, or email me at [croninb1@tcd.ie.](mailto:croninb1@tcd.ie?subject=Hello)
+## About
+My name is Brian Cronin. I am an MSc Pharmacy student at Trinity College, Dublin&#128300; I am primarily interested in healthcare, technology and business, but I enjoy reading widely in many other areas that I know a lot less about.
+
+## Background
+I was born in Cork, Ireland. When I was a child, I lived in San Diego, Cincinnati, and London before moving back to Ireland and undertaking secondary education in Athlone. Hopefully I picked up some American optimism and balanced it with Irish realism. In my spare time I have fun with endurance sports (Ex-rower, mainly running at the moment).
 
 
 ## Links
-
+Below are some of my social pages, or you can email me at [croninb1@tcd.ie.](mailto:croninb1@tcd.ie?subject=Hello)
 - [Twitter](https://twitter.com/Briancron_in)
 - [LinkedIn](https://www.linkedin.com/in/brian-cronin-ie/)
 - [GitHub](https://github.com/brian97C)
